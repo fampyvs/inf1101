@@ -21,6 +21,7 @@
 #include "list.h"
 #include "set.h"
 
+
 typedef enum tnode_color {
     RED = 0,
     BLACK,

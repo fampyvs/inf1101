@@ -24,6 +24,7 @@ static AST *parse_and(list_iter_t *tokens, char *errmsg);
 static AST *parse_term(list_iter_t *tokens, char *errmsg);
 
 
+
 /* Creation and Deletion */
 
 /* Create a new ast for a term */

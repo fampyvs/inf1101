@@ -23,6 +23,7 @@ typedef struct word_freq {
 } word_freq_t;
 
 
+
 int compare_word_freq_by_count(word_freq_t *a, word_freq_t *b) {
     /* switch 1 and -1 to output in ascending order */
     if (a->count > b->count) {

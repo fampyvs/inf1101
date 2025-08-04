@@ -17,6 +17,7 @@
 #include "set.h"
 
 
+
 int find_files(const char *dir_path, list_t *dst, set_t *valid_exts, size_t n_files_max) {
     DIR *dir = opendir(dir_path);
     if (!dir) {

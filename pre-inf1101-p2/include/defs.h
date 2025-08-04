@@ -60,3 +60,4 @@ typedef uint64_t (*hash64_fn)(const void *);
 
 
 #endif /* DEFS_H */
+

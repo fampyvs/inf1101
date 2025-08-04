@@ -29,6 +29,7 @@
 #include "logger.h"
 
 
+
 /* SETTING: limit the maximum number of results printed for queries. 0=unlimited. */
 #define MAX_RESULT_TABLE_ROWS 20
 

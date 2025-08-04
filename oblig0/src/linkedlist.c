@@ -11,6 +11,7 @@
 #include <stdlib.h>
 
 
+
 typedef struct lnode lnode_t;
 struct lnode {
     lnode_t *next;

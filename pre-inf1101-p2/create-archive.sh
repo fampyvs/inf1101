@@ -6,6 +6,7 @@ ARCHIVE_SUFFIX=-"inf1101-p2"
 # Directories to exclude from the archive
 DIR_EXCLUDE_PAT=("data" "bin" "build" "debug" "local" "log" ".*")
 
+
 # Files/extensions to exclude from the archive
 FILE_EXCLUDE_PAT=("*.zip" "*.log" "__MACOSX" ".DS_Store")
 

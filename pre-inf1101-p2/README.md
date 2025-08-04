@@ -5,6 +5,7 @@ Builds an in-memory index of terms from a given directory of files, providing a 
 
 ---
 
+
 ## Usage & Arguments
 
 ```

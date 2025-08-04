@@ -14,6 +14,7 @@ struct logger {
     int status;
 };
 
+
 /* Opens the logfile at logfile_pathbuf. Returns 0 on success, -1 on failure. */
 static int logfile_open_from_pathbuf(logger_t *logger) {
     /* create dir if it does not exist */

@@ -11,6 +11,7 @@ struct index;
 typedef struct index index_t;
 
 
+
 // Inspitation from https://keleshev.com/abstract-syntax-tree-an-example-in-c/ and
 // https://www.reddit.com/r/C_Programming/comments/lzq2t2/how_to_make_an_ast_in_c/
 // This reddit post also assisted in other parts of making the ast

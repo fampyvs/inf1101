@@ -1,6 +1,7 @@
 # wordfreq
 Simple command line program to list the frequency of words in a given input file.  
 
+
 ## Usage
 `./<exec_path> <fpath> <min_wc> <min_wl> <lim_n_results>`
 

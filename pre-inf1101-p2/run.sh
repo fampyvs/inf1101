@@ -3,7 +3,7 @@
 #
 # Use of this script is entirely optional, and the only advantage of using it is not having to type out arguments.
 # Edit it in any way you would like.
-#
+
 
 # binary targets
 DEBUG_BIN="build/debug/indexer"

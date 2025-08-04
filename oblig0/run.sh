@@ -11,4 +11,3 @@ elif [ -f bin/release/wordfreq ]; then
 else 
 	echo "No executable found in bin/release or bin/debug\nRun make to build the executables\n"
 fi
-

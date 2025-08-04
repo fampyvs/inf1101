@@ -42,3 +42,4 @@ void logger_destroy(logger_t *logger);
 void logger_flush(logger_t *logger);
 
 #endif /* LOGGER_H */
+

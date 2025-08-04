@@ -114,3 +114,4 @@ int redirect_stderr(const char *path);
 
 
 #endif /* COMMON_H */
+

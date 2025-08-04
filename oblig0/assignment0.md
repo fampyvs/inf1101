@@ -1,5 +1,6 @@
 # Overview 💡
 
+
 This is an optional, but highly recommended, assignment. It will give you a head start on Assignment 1 (where you will need to implement parts of assignment 0).
 
 In this assignment, you are to implement a linked list. The list ADT specifies basic list operations such as adding, removing, iterating and sorting the elements.

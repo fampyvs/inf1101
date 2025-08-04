@@ -1,6 +1,7 @@
 # Authors: Odin Bjerke <odin.bjerke@uit.no>
 # Modified by: Morten Grønnesby <morten.gronnesby@uit.no>
 
+
 # Commands
 CC = gcc
 EXE = wordfreq

@@ -30,6 +30,7 @@ struct index {
     map_t *doc_term_count; 
 };
 
+
 /**
  * You may utilize this for lists of query results, or write your own comparison function.
  */
